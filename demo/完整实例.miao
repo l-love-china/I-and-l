@@ -1,0 +1,23 @@
+llllllllllllllll "欢迎使用--C语言完整实例！"
+lllllllllllllllI "demo\示例文件.txt" "文件内容"
+lllllllllllllIll "请输入您的姓名：" "用户姓名"
+lllllllllllllIII "问候语" "你好"
+llIIIlllllllllIIl "问候语" "，" "完整问候语"
+llIIIlllllllllIIl "完整问候语" "用户姓名" "最终问候语"
+lllllllllllllIll "最终问候语"
+llIlllllllllllIIl 10 5
+llIlllllllllllIII 10 5
+llIllllllllllIlll 10 5
+llIllllllllllIllI 10 5
+llIllllllllllIlII 2 3
+llIIlllllllllllIl 10 5
+llIIlllllllllllII 10 5
+llIIllllllllllIII 10 5
+llIIlllllllllIlll 10 5
+llIIllllllllllIll 10 5
+llIIlllllllllIllI 10 5
+llIIIlllllllllIII "hello world" "大写结果"
+lllllllllllllIll "大写结果"
+llIIIllllllllIlll "HELLO WORLD" "小写结果"
+lllllllllllllIll "小写结果"
+lllllllllllllIlI
