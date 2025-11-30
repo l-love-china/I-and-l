@@ -1,3 +1,4 @@
+import time
 def 输入(内容):
     return input(内容)
 
@@ -128,3 +129,5 @@ def 字符串转小写(字符串, 结果变量名=None):
     if 结果变量名:
         return {结果变量名: 结果}
     return 结果
+def 等待(秒数):
+    time.sleep(秒数)
